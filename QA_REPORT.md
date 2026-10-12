@@ -111,7 +111,7 @@ Every explicit assignment requirement has been empirically tested and verified a
 -  **Data Integrity**: Conservation laws audited and zero-demand grid padded.
 -  **No Data Leakage**: Temporal split strictly enforced with shift-lagged features.
 -  **Simulation Integrity**: Discrete daily order-up-to loop accurately tracks pending orders and stockouts.
-- [x] **Reproducibility**: Tested and executable via single command pipeline.
+-  **Reproducibility**: Tested and executable via single command pipeline.
 - [x] **Scope Control**: Zero unnecessary web apps or scope creep added.
 -  **Deliverable Readiness**: Notebook executed, PDF generated (2 pages), script created, requirements & README complete.
 
