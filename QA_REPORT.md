@@ -112,7 +112,7 @@ Every explicit assignment requirement has been empirically tested and verified a
 -  **No Data Leakage**: Temporal split strictly enforced with shift-lagged features.
 -  **Simulation Integrity**: Discrete daily order-up-to loop accurately tracks pending orders and stockouts.
 -  **Reproducibility**: Tested and executable via single command pipeline.
-- [x] **Scope Control**: Zero unnecessary web apps or scope creep added.
+-  **Scope Control**: Zero unnecessary web apps or scope creep added.
 -  **Deliverable Readiness**: Notebook executed, PDF generated (2 pages), script created, requirements & README complete.
 
 ---
