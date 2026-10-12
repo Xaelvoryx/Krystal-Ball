@@ -554,9 +554,3 @@ WAPE ($\frac{\sum |y - \hat{y}|}{\sum y}$) avoids division-by-zero errors on day
 ## License
 
 This project is licensed under the MIT License.
-
----
-
-## Credits
-
-Developed as part of the **Krystal Ball Hotel Bar Inventory Forecasting & Par Level Recommendation System**.
