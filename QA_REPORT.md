@@ -107,7 +107,7 @@ Every explicit assignment requirement has been empirically tested and verified a
 ## Final Quality Gate Checklist
 
 -  **Requirement Completeness**: Every explicit requirement is satisfied.
-- [x] **Technical Correctness**: All math, formulas, and time-series feature lags are verified.
+-  **Technical Correctness**: All math, formulas, and time-series feature lags are verified.
 - [x] **Data Integrity**: Conservation laws audited and zero-demand grid padded.
 - [x] **No Data Leakage**: Temporal split strictly enforced with shift-lagged features.
 - [x] **Simulation Integrity**: Discrete daily order-up-to loop accurately tracks pending orders and stockouts.
